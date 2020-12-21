@@ -19,10 +19,10 @@
 
 # Contributors
 
-- Wes Hedrick
+<a href="https://github.com/wesleyhedrick">Wesley Hedrick</a>
 
-- Shoel Uddin
+<a href="https://github.com/shoel-uddin">Shoel Uddin</a> 
 
-- David Vaughan
+<a href="https://github.com/davidvaughan86">David Vaughan</a> 
 
-- Melody Ulep
+<a href="https://github.com/mculep">Melody Ulep</a> 
