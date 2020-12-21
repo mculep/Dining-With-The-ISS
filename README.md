@@ -6,7 +6,7 @@
 
 ## Objectives:
 
--   Create a fun frontend project using 2 API of your choice.
+-   Frontend Project: Create a fun frontend project using 2 API of your choice.
 
 ## API used in this project
 
