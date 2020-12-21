@@ -30,4 +30,4 @@
 - <a href="https://github.com/davidvaughan86">David Vaughan</a> 
 
 - <a href="https://github.com/mculep">Melody Ulep</a> 
-<a href="https://github.com/wesleyhedrick/Dining-With-The-ISS/blob/master/Images/melodyUImg.jpeg" width="150" alt="Melody's Profile image">
+ <img src="https://github.com/wesleyhedrick/Dining-With-The-ISS/blob/master/Images/melodyUImg.jpeg" width="150" alt="Melody's Profile image">
