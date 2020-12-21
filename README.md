@@ -19,7 +19,7 @@
 
 ## Screenshot of the ISS over France
 
-<img src="https://github.com/mculep/Dining-With-The-ISS/blob/master/Images/google-pin.png" width="500" height="200" alt="Google-pin" />
+<img src="https://github.com/mculep/Dining-With-The-ISS/blob/master/Images/google-pin.png" width="800" height="200" alt="Google-pin" />
 
 # Contributors
 
