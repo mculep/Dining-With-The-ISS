@@ -19,10 +19,10 @@
 
 # Contributors
 
-<a href="https://github.com/wesleyhedrick">Wesley Hedrick</a>
+- <a href="https://github.com/wesleyhedrick">Wesley Hedrick</a>
 
-<a href="https://github.com/shoel-uddin">Shoel Uddin</a> 
+- <a href="https://github.com/shoel-uddin">Shoel Uddin</a> 
 
-<a href="https://github.com/davidvaughan86">David Vaughan</a> 
+- <a href="https://github.com/davidvaughan86">David Vaughan</a> 
 
-<a href="https://github.com/mculep">Melody Ulep</a> 
+- <a href="https://github.com/mculep">Melody Ulep</a> 
