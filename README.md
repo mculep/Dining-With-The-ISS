@@ -23,7 +23,7 @@
 
 # Contributors
 
-- <a href="https://github.com/wesleyhedrick"><h1>Wesley Hedrick</h1></a>
+- <a href="https://github.com/wesleyhedrick">Wesley Hedrick</a>
 <img src="https://github.com/wesleyhedrick/Dining-With-The-ISS/blob/master/Images/wesHImg.jpeg" width="400" alt="Wes's Profile image">
 
 
