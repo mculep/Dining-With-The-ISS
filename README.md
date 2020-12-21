@@ -17,6 +17,10 @@
 
 -   Dining with ISS searches the nearest restaurant to the current location of the ISS.
 
+## Screenshot of the ISS over France
+
+<img src="https://github.com/mculep/Dining-With-The-ISS/blob/master/Images/google-pin.png" width="500" height="200" alt="Google-pin" />
+
 # Contributors
 
 - <a href="https://github.com/wesleyhedrick">Wesley Hedrick</a>
