@@ -28,7 +28,7 @@
 
 
 - ### <a href="https://github.com/shoel-uddin">Shoel Uddin</a> 
-<img src="https://github.com/wesleyhedrick/Dining-With-The-ISS/blob/master/Images/shoelUImg.jpeg" width="400" style="font-size: 100px alt="Shoel's Profile image">
+<img src="https://github.com/wesleyhedrick/Dining-With-The-ISS/blob/master/Images/shoelUImg.jpeg" width="400" alt="Shoel's Profile image">
 
 
 - ### <a href="https://github.com/davidvaughan86">David Vaughan</a> 
