@@ -1,8 +1,9 @@
 
-<img src="https://github.com/wesleyhedrick/Dining-With-The-ISS/blob/master/Images/readme.jpg" width="800" height="200" alt="Header picture" />
-
+![Header Banner](https://github.com/wesleyhedrick/Dining-With-The-ISS/blob/master/Images/readme.jp)
 
 # DINING WITH ISS
+
+## Webs
 
 ## Objectives:
 
