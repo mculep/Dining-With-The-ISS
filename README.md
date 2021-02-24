@@ -3,7 +3,7 @@
 
 # DINING WITH ISS
 
-## Website [Visit Website](http://spacestationlunchbreak.com/)
+## Website: [Click Here](http://spacestationlunchbreak.com/)
 
 
 ## Objectives:
