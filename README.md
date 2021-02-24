@@ -1,5 +1,5 @@
 
-![Header Banner](https://github.com/wesleyhedrick/Dining-With-The-ISS/blob/master/Images/readme.jp)
+![Header Banner](https://github.com/wesleyhedrick/Dining-With-The-ISS/blob/master/Images/readme.jpg)
 
 # DINING WITH ISS
 
